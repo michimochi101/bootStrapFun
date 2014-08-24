@@ -1,0 +1,48 @@
+li{
+	color:red;
+}
+body{
+	background-color:#EBEBE0;
+
+
+}
+
+#headerLogo {
+	background-color:#FFB894;
+	height: 200px;
+	width:100%;
+	
+}
+#moduleButton {
+	background-color:#FFB894;
+	height: 40px;
+	width:100%;
+	
+}
+
+#headerLogo form{
+	margin-right:400px;
+	margin-top:80px;
+	display:inline;
+
+}
+img{
+	margin-top:20px;
+	margin-left:50px;
+}
+
+.nav{
+	width:1000px;
+	/*height:100px;*/
+	
+}
+
+.nav li{
+	color:blue;
+	display:inline;
+}
+
+#moduleButton li{
+	margin-right:150px;
+	display:inline;
+}
